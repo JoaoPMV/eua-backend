@@ -1,0 +1,26 @@
+{
+  "audioUrl": "/audio/chapter-01.mp3",
+  "words": [
+    {
+      "text": "friendly",
+      "start": 9.0,
+      "end": 12.3
+    },
+
+    {
+      "text": "married",
+      "start": 29.06,
+      "end": 32.299
+    },
+    {
+      "text": "serious",
+      "start": 25.02,
+      "end": 28.5
+    },
+    {
+      "text": "hard",
+      "start": 25.02,
+      "end": 28.5
+    }
+  ]
+}

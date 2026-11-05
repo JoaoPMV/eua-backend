@@ -1,0 +1,27 @@
+[
+  {
+    "end": 2.4,
+    "word": "My name is...",
+    "start": 0.8
+  },
+  {
+    "end": 4.3,
+    "word": "I'm 28 years old",
+    "start": 2.75
+  },
+  {
+    "end": 5.95,
+    "word": "I'm from",
+    "start": 4.4
+  },
+  {
+    "end": 9.28,
+    "word": "I live in",
+    "start": 7.2
+  },
+  {
+    "end": 3.8,
+    "word": "I'm 28 years old",
+    "start": 2.4
+  }
+]
