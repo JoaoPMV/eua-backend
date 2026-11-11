@@ -9,15 +9,15 @@ from app.models import Chapter
 LESSON_ID_PATTERN = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 
 
-def get_chapter_data(chapter, category):
-    """Devolve a linha (chapter, category).
+def get_chapter_data(chapter):
+    """Devolve a linha do capítulo.
 
     Levanta LookupError se o id for inválido ou a linha não existir.
     """
     if not LESSON_ID_PATTERN.match(chapter):
         raise LookupError("Capítulo não encontrado.")
 
-    row = db.session.get(Chapter, (chapter, category))
+    row = db.session.get(Chapter, chapter)
 
     if row is None:
         raise LookupError("Capítulo não encontrado.")
@@ -30,7 +30,7 @@ def get_pronunciation(lesson_id):
 
     Levanta LookupError se o id for inválido ou o capítulo não existir.
     """
-    return get_chapter_data(lesson_id, "pronunciation").to_dict()
+    return get_chapter_data(lesson_id).to_dict()
 
 
 def create_word(word):

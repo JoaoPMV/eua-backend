@@ -1,140 +1,59 @@
 [
   {
-    "word": "Hi. My name is Ethan Miller",
-    "start": 0.02,
-    "end": 2.4
+    "sentence": "My family lives in the United States.",
+    "start": 3.861,
+    "end": 6.332
   },
   {
-    "word": "I'm 28 years old",
-    "start": 2.4,
-    "end": 3.8
+    "sentence": "She is from Scotland,",
+    "start": 9.003,
+    "end": 10.153
   },
   {
-    "word": "and I'm from Denver, Colorado, in the United States",
-    "start": 3.8,
-    "end": 6.5
+    "sentence": "She is a kind and friendly person.",
+    "start": 18.285,
+    "end": 20.516
   },
   {
-    "word": "I live in Troso, Norway",
-    "start": 6.5,
-    "end": 9.2
+    "sentence": "but he doesn't live there anymore.",
+    "start": 28.208,
+    "end": 29.878
   },
   {
-    "word": "I moved here 2 years ago",
-    "start": 9.2,
-    "end": 10.8
+    "sentence": "My parents are divorced,",
+    "start": 30.169,
+    "end": 31.519
   },
   {
-    "word": "I work as a delivery driver",
-    "start": 10.8,
-    "end": 12.8
+    "sentence": "My older sister is 32 years old,",
+    "start": 43.352,
+    "end": 45.683
   },
   {
-    "word": "I drive a van and delivery packages to people",
-    "start": 12.8,
-    "end": 15.6
-  },
-  {
-    "word": "I start work in the morning and finish in the afternoon",
-    "start": 15.6,
-    "end": 18.7
-  },
-  {
-    "word": "I meet many people at work",
-    "start": 18.7,
-    "end": 20.8
-  },
-  {
-    "word": "and I always try to be friendly in my free time",
-    "start": 20.8,
-    "end": 24.2
-  },
-  {
-    "word": "I like playing video games and watching movies",
-    "start": 24.2,
-    "end": 26.7
-  },
-  {
-    "word": "I also enjoy staying home and relaxing",
-    "start": 26.7,
-    "end": 29.4
-  },
-  {
-    "word": "I'm not very active",
-    "start": 29.4,
-    "end": 31.1
-  },
-  {
-    "word": "and I don't play any sports",
-    "start": 31.1,
-    "end": 32.6
-  },
-  {
-    "word": "I spend a lot of time sitting",
-    "start": 32.6,
-    "end": 34.5
-  },
-  {
-    "word": "but I want to change that.",
-    "start": 34.5,
-    "end": 36.0
+    "sentence": "My younger sister is 24 years old,",
+    "start": 49.514,
+    "end": 51.785
   },
 
   {
-    "word": "I'd like to try skiing, swimming and football.",
-    "start": 36.0,
-    "end": 39.2
+    "sentence": "We are a close family,",
+    "start": 56.856,
+    "end": 58.287
   },
   {
-    "word": "I don't know much about sports",
-    "start": 39.2,
-    "end": 41.1
-  },
-  {
-    "word": "but that's okay",
-    "start": 41.1,
-    "end": 41.8
-  },
-  {
-    "word": "Everyone has to start somewhere, right?",
-    "start": 41.8,
-    "end": 43.7
+    "sentence": "and we enjoy spending time together.",
+    "start": 58.257,
+    "end": 60.047
   },
 
   {
-    "word": "I live in Norway",
-    "start": 43.7,
-    "end": 45.5
+    "sentence": "Even though we live in different countries,",
+    "start": 67.179,
+    "end": 69.03
   },
   {
-    "word": "because I want to experience a differente culture.",
-    "start": 45.5,
-    "end": 47.6
-  },
-  {
-    "word": "I love the beautiful nature here",
-    "start": 47.6,
-    "end": 50.1
-  },
-  {
-    "word": "and I really want to see the Northern lights",
-    "start": 50.1,
-    "end": 52.3
-  },
-  {
-    "word": "Well, that's a little about me",
-    "start": 52.3,
-    "end": 54.2
-  },
-  {
-    "word": "What about you?",
-    "start": 54.2,
-    "end": 55.2
-  },
-
-  {
-    "word": "What do you like to do in your free time?",
-    "start": 55.2,
-    "end": 57.3
+    "sentence": "my family is always important to me!",
+    "start": 69.08,
+    "end": 71.35
   }
 ]
